@@ -22,4 +22,7 @@ Telemtri Yolu ihanın durum bilgilerinin yki'ye aktarıldığı ve ihaya komut
 gönderilebilen yoldur
 çift yönlüdür
 YER KONTROL İSTASYONU <---> TELEMETRİ MODÜLÜ <---->  UÇUŞ KONTROLCÜSÜ
- 
+
+
+-Yararlanılan Video Bölümleri
+B3'ten yararlandım 
